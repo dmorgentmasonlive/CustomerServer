@@ -1,17 +1,5 @@
 {
   "customers": [
-    {
-      "id": 1,
-      "Customer Name": "Person 1",
-      "Customer Id": "1",
-      "Customer Email": "VD@mail.mail",
-      "Location": "", 
-      "List of services": "Service 1",
-      "Date": "",
-      "Contact Person": "Person 1.5",
-      "Contact Person Email": "notarealemail@mail.mail",
-      "Website Link": "",
-      "Description": ""
-    }
+   
   ]
 }
