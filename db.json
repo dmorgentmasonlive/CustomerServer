@@ -12,6 +12,19 @@
       "Contact Person Email": "notarealemail@mail.mail",
       "Website Link": "",
       "Description": ""
+    },
+    {
+      "id": 2,
+      "Customer Name": "Person 2",
+      "Customer Id": "2",
+      "Customer Email": "CD@mail.mail",
+      "Location": "", 
+      "List of services": "Service 2",
+      "Date": "",
+      "Contact Person": "Person 2.5",
+      "Contact Person Email": "notarealemail@mail.mail",
+      "Website Link": "",
+      "Description": ""
     }
   ]
 }
